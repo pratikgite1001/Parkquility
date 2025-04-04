@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_park_duration_on_card</name>
+   <tag></tag>
+   <elementGuidId>ccbd8262-5229-481b-b6e9-5ea4d1db7f27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),&quot;${Section}&quot;)]/../../div/div/div[text()=&quot;${LicensePlateNo}&quot;]//following-sibling::div[@class=&quot;vs-booking-id&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

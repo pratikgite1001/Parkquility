@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PQ108_TCCancel_Prepaid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ebb8a6a-d59a-4d2b-865c-01b308b049e7</testCaseGuid>
+</TestCaseEntity>

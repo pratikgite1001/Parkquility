@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_room_no_on_card</name>
+   <tag></tag>
+   <elementGuidId>0c2eb028-bbe9-4d9d-b581-ab574b3be26c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[text()=&quot;In&quot;]/../..//child::div[text()=&quot;${LicensePlateNO}&quot;])[1]/../div[@class=&quot;vs-car-unit-no&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PQ107_TCCancel_Guest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd6191d7-fdf5-4bca-870e-971678f1e161</testCaseGuid>
+</TestCaseEntity>

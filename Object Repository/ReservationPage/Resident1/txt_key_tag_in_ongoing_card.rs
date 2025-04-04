@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_key_tag_in_ongoing_card</name>
+   <tag></tag>
+   <elementGuidId>c648d770-6d95-428e-a063-a4a50730aeb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()=&quot;${Section}&quot;]/../..//div[@class=&quot;valet-segment&quot;]/div/div[text()=&quot;${LicensePlateNo}&quot;]/following-sibling::div[@class=&quot;vs-car-location&quot;][2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>common_reservation_card</name>
+   <tag></tag>
+   <elementGuidId>5e6d49f9-2b60-470e-bda6-bf00df37e5ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[text()=&quot;${Section}&quot;]/../..//child::div[text()=&quot;${LicensePlateNo}&quot;])[1]/..</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

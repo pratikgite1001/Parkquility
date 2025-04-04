@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_park_dur_on_card_without_section</name>
+   <tag></tag>
+   <elementGuidId>d263a8d5-0b4c-4950-bd43-2da1282b5b9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[text()=&quot;${LicensePlateNo}&quot;])[1]/../div[@class=&quot;vs-booking-id&quot;][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

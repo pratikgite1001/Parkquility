@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Guest</name>
+   <tag></tag>
+   <elementGuidId>ab560d11-2d07-42a4-8146-d10977615274</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(5) > div.button-class > span.button-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-inner']/div/div/div/a[5]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4973815d-5e3c-499a-9ccc-99b6c4d17be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-name</value>
+      <webElementGuid>a489d776-f591-473c-98f7-dceec08e83f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guest</value>
+      <webElementGuid>e2384026-ac01-4848-8812-772f38333cfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-inner&quot;)/div[@class=&quot;valet-central valet-wrapper-desktop valet-tabs&quot;]/div[@class=&quot;vc-btn-wrap&quot;]/div[@class=&quot;vc-btn show-tab-scroll&quot;]/a[5]/div[@class=&quot;button-class&quot;]/span[@class=&quot;button-name&quot;]</value>
+      <webElementGuid>1add447f-de01-401b-a047-d59db1f7f763</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-inner']/div/div/div/a[5]/div/span</value>
+      <webElementGuid>16f3fd49-1576-45ba-90c4-a9e0e1b34566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery'])[1]/following::span[1]</value>
+      <webElementGuid>8154afe8-7b42-44d4-938e-d497d06f851f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly'])[3]/following::span[2]</value>
+      <webElementGuid>1c340d7b-56d4-4292-9871-399cbdd24f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visitor'])[1]/preceding::span[1]</value>
+      <webElementGuid>13a36ce3-d6fa-4795-a991-6c249a809659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary'])[1]/preceding::span[2]</value>
+      <webElementGuid>259da964-e0e9-4ecf-b5a9-c7a7d5134e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Guest']/parent::*</value>
+      <webElementGuid>cd809694-e879-4102-b421-27dfa4da7922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/div/span</value>
+      <webElementGuid>1e03014e-4b2c-4ebd-99be-1d8d3dcb9bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Guest' or . = 'Guest')]</value>
+      <webElementGuid>4e8640b9-d989-4f69-8e61-7b3f7c38bfd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

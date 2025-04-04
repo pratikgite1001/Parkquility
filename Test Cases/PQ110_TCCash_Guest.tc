@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PQ110_TCCash_Guest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c4b5be5-b822-4d7d-8c4f-7cd3d7c735f7</testCaseGuid>
+</TestCaseEntity>

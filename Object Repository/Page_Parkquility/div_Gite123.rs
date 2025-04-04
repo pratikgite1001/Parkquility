@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gite123</name>
+   <tag></tag>
+   <elementGuidId>49033302-c00d-4cbf-a811-48d44db92377</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vs-vehicle-detail.vs-vehicle-unpaid.car-in.car-ready > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-inner']/div/div[2]/div/div/div[3]/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7688575d-b90f-4183-a86b-285906e6692d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gite123</value>
+      <webElementGuid>1de185e5-da76-43a5-9bb9-6006f9d37ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-inner&quot;)/div[@class=&quot;valet-central valet-wrapper-desktop valet-tabs&quot;]/div[2]/div[@class=&quot;valet-wrapper valet-wrapper-desktop valet-guest-main&quot;]/div[1]/div[@class=&quot;vs-vd-wrap clearfix&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;valet-segment&quot;]/div[@class=&quot;vs-vehicle-detail vs-vehicle-unpaid car-in   car-ready&quot;]/div[1]</value>
+      <webElementGuid>d9283969-db5d-4e1c-a142-3184cd38c646</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-inner']/div/div[2]/div/div/div[3]/div[2]/div[2]/div/div</value>
+      <webElementGuid>80c8dc81-bd6d-467c-abe6-78bbafd145d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In'])[1]/following::div[3]</value>
+      <webElementGuid>fcf686e8-4da1-4f4d-b598-8c92c0233f4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0'])[8]/following::div[10]</value>
+      <webElementGuid>526f3ba6-644f-4f72-8b1f-9939924ec195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A23'])[1]/preceding::div[1]</value>
+      <webElementGuid>7aea9fa6-f751-43f1-a7e4-ddde360a1c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PQPG05'])[1]/preceding::div[2]</value>
+      <webElementGuid>d4df157b-7f5e-4ac4-a3ab-7e85d0dfe590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gite123']/parent::*</value>
+      <webElementGuid>a982abf1-d1fd-4717-b0b1-d62e2f788cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div/div</value>
+      <webElementGuid>18197c80-42ca-4184-9eaa-cba89c6015b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Gite123' or . = 'Gite123')]</value>
+      <webElementGuid>a3e0868d-caac-4c45-99b9-e510bbe87bfc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

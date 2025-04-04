@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_key_tag_on_card</name>
+   <tag></tag>
+   <elementGuidId>e0fe07d1-ac3c-4dcd-a993-75fe49b62e3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()=&quot;${Section}&quot;]/../..//div[@class=&quot;valet-segment&quot;]/div/div[text()=&quot;${LicensePlateNo}&quot;]/following-sibling::div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

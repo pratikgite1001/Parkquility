@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_car_make_on_card</name>
+   <tag></tag>
+   <elementGuidId>34e7ac51-8f9b-4830-8fc8-560f06cf9836</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[text()=&quot;${Section}&quot;]/../..//child::div[text()=&quot;${LastName}&quot;])[1]/../div[@class=&quot;vs-car-location&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

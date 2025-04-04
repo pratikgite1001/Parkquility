@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_location_on_card_visitor</name>
+   <tag></tag>
+   <elementGuidId>f72af605-6348-4530-ae37-cf52afeda309</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[text()=&quot;${Section}&quot;]/../..//child::div[text()=&quot;${LicensePlateNO}&quot;])[1]/../div[@class=&quot;vs-car-location&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

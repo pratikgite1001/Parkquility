@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PQ119_TCMakePrepaid_From_Visitor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e238287d-6653-4744-a4fc-3f4261394e3f</testCaseGuid>
+</TestCaseEntity>

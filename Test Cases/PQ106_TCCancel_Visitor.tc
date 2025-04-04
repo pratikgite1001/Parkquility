@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PQ106_TCCancel_Visitor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e89aae34-8a21-4682-a1e2-529aa893d9af</testCaseGuid>
+</TestCaseEntity>

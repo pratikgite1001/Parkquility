@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_price</name>
+   <tag></tag>
+   <elementGuidId>a43a84f9-d39c-49fd-94e3-eff01f4093d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;monthly-pricing-wrap&quot;]/form[${LastFormNumber}]//span[text()=&quot;$&quot;]/../input[@type=&quot;text&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

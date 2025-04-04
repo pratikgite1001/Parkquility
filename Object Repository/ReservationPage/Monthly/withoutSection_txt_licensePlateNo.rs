@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>withoutSection_txt_licensePlateNo</name>
+   <tag></tag>
+   <elementGuidId>28523d4c-9abf-4364-a1ac-321b64f5cdd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>((//div[@class=&quot;clearfix&quot;])[2]/div/div/div[1][text()=&quot;${LicensePlateNo}&quot;])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

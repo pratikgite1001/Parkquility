@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ShowCompleted Reservations_valet-overlay</name>
+   <tag></tag>
+   <elementGuidId>f2c07022-e5ab-4ef8-a857-5dc29fbf32c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.valet-overlay</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-inner']/div/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c55097c-fc44-41ce-8405-87604cf09ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>valet-overlay</value>
+      <webElementGuid>67ab8029-f3b4-4bb5-ad5f-5cad53bbeeee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-inner&quot;)/div[@class=&quot;valet-central valet-wrapper-desktop valet-tabs&quot;]/div[2]/div[@class=&quot;valet-wrapper valet-wrapper-desktop valet-guest-main&quot;]/div[2]/div[@class=&quot;valet-overlay&quot;]</value>
+      <webElementGuid>697594f7-ea99-4a7c-a107-b19c6acf4728</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-inner']/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>5993461a-ace3-4e15-9c29-871d65338b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>fea76ee3-582f-4439-a34a-c79ff72a313b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

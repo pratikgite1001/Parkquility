@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_key_tag_on_card_without_section</name>
+   <tag></tag>
+   <elementGuidId>347c36e7-d1dc-4ec3-9e74-99a815640f77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;valet-segment&quot;]/div/div[text()=&quot;${LicensePlateNo}&quot;]/following-sibling::div[@class=&quot;vs-car-location&quot;][2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PQ115_TCCard_Prepaid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6559dc34-ac1f-4e19-b275-962e6e0d86d2</testCaseGuid>
+</TestCaseEntity>

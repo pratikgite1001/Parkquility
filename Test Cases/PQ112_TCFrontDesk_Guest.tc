@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PQ112_TCFrontDesk_Guest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db89d6b6-f364-4c28-89a7-165a1c28cec5</testCaseGuid>
+</TestCaseEntity>

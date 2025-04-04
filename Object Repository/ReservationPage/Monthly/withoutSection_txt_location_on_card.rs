@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>withoutSection_txt_location_on_card</name>
+   <tag></tag>
+   <elementGuidId>f4ebbaa1-18f3-46d3-93ec-a8d6eaed9b1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>((//div[@class=&quot;clearfix&quot;])[2]/div/div/div[1][text()=&quot;${LicensePlateNo}&quot;]//following-sibling::div[@class=&quot;vs-car-location&quot;])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

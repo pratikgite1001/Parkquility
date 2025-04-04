@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PQ116_TCMakeVisitor_From_Guest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65e73798-95a6-4f07-8dd8-33f3733f6c8c</testCaseGuid>
+</TestCaseEntity>

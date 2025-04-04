@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_unit_number_on_card</name>
+   <tag></tag>
+   <elementGuidId>e67c07c5-81f8-4658-b382-c6903fac5f9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),&quot;${Section}&quot;)]/../../div/div/div[text()=&quot;${LicensePlateNo}&quot;]//following-sibling::div[@class=&quot;vs-car-unit-no&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

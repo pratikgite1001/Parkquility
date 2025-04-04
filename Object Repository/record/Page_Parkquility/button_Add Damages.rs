@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Damages</name>
+   <tag></tag>
+   <elementGuidId>b9c86cab-f134-4d7c-8cce-a731a29cf104</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-6.text-right > button.btn.btn-labeled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e5f53585-bab4-4459-ac8f-6a170ae05fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c4803153-d2e1-4892-a873-d6bbe0215a37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-labeled</value>
+      <webElementGuid>ebc58117-8fdb-4997-b353-f463301a8e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Damages</value>
+      <webElementGuid>4b37b321-0a22-4c92-bea7-efc7e4c8dc1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;web-pay&quot;)/div[@class=&quot;vs-top-btn clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-6 text-right&quot;]/button[@class=&quot;btn btn-labeled&quot;]</value>
+      <webElementGuid>b5fc85f6-42e7-4cb5-8173-46a2f65d01e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>3220a478-21e0-4c06-a102-37ecbdfd49cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='web-pay']/div[5]/div/div[2]/button</value>
+      <webElementGuid>2feecb25-5a95-4a27-b980-78b97bc639ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Damages'])[1]/following::button[1]</value>
+      <webElementGuid>3b3e23b9-c038-4be4-b2c5-eb80e56faffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Key Slot'])[1]/following::button[2]</value>
+      <webElementGuid>62fdf9ce-38ba-4418-b8c8-eba4dd3cc1fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Reservation'])[2]/preceding::button[1]</value>
+      <webElementGuid>ffa82d93-edc3-4f8b-9d3b-ba57c12bd24c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Damages']/parent::*</value>
+      <webElementGuid>c369a985-1228-4b9c-89c2-d81f6eb57d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/button</value>
+      <webElementGuid>851131af-f05a-4146-8eb7-be26d0a40256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add Damages' or . = 'Add Damages')]</value>
+      <webElementGuid>424e437c-507d-4fac-a48d-3cbe63180b81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PQ113_TCCard_Visitor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a50b3196-7684-48eb-bf92-a52d7c4ba408</testCaseGuid>
+</TestCaseEntity>
