@@ -4,5 +4,6 @@
    <name>api</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>f27dd2e9-6d86-4591-940f-0a85bc653dc5</testCaseGuid>
 </TestCaseEntity>
