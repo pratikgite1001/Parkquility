@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>logincsvdownload - Copy</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>391ff3ea-d090-4972-a7d8-343b2bf13d6f</testCaseGuid>
-</TestCaseEntity>
